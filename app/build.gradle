@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.example.login_form_relative_layout'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.example.login_form_relative_layout"
         minSdk 21
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
